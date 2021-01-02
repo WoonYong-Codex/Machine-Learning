@@ -32,7 +32,7 @@ Data dictionary
 - Estimated salary: Annual estimated salary of customer 
 - Exited: Whether customer has churned (1 is yes)
 
-Introduction 
+Introduction <br>
 Handling customer attrition or churn in banking sector is important, based on the “Churn Modeling” data provided 
 by a multinational bank, the approach is applying Machine Learning with aim to find out reasons of customer churn 
 and to predict customer churn for the bank in their Europe market. 
