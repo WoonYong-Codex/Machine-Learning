@@ -1,5 +1,5 @@
 # Machine-Learning
-my Projects
+my Projects - Supervised Learning
 
 Handling Customer Churn For a multinational Bank
 
