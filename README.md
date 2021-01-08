@@ -1,7 +1,7 @@
 # Machine-Learning
 Capstone Project - News Polarity
 
-Background Information
+Background Information <br>
 This dataset summarizes a set of features about news articles published by Mashable in a period of two years, containing 
 information about the articles like word count, images and links present, and popularity (number of shares).
 
@@ -23,3 +23,8 @@ Data dictionary
 13. shares: Number of shares
 14. avg_positive_polarity: Avg. polarity of positive words
 15. title_sentiment_polarity: Title polarity
+
+Task <br>
+Stakeholders are interested to automatically detect any article as positive or negative. Build a predictive model which 
+predicts the sentiment polarity of unseen news articles. You may choose to define article polarity as either a numeric 
+or categorical target. Assume the unseen news articles contain all information except global_sentiment_polarity. 
