@@ -8,5 +8,5 @@ Supervised Learning Project
 1) Bank Customer Churn
 2) News Polarity
 
-Unsupervised Learning Project
+Unsupervised Learning
 1) Assignment
