@@ -2,7 +2,7 @@
 my Projects
 
 Completed 3 Machine Learning (ML) Project: <br>
-Note: Project can be selected from "Branches".
+Note: Details of each project can be selected from "Branches".
 
 Supervised Learning Project
 1) Bank Customer Churn
